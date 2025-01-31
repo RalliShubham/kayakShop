@@ -10,7 +10,7 @@ It includes:
   - Emergency Shutdown – In case of unexpected closures, rentals are halted immediately.
     
 ## Key Features
- ** 🛶 Flexible Rental Options**
+  **🛶 Flexible Rental Options**
         Customers can rent kayaks hourly ($10), daily ($30), or weekly ($50), with automated calculations for total rental cost and duration.
 
   **📉 Smart Inventory Tracking**
