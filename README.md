@@ -1,24 +1,24 @@
-# kayakShop
-Renting a kayak should be simple, whether you're planning a quick paddle or a week-long excursion.
-
-Kayak Rental System: Smooth Sailing for Every Adventure
+# Kayak Rental System
 Renting a kayak should be simple, whether you're planning a quick paddle or a week-long excursion. This Kayak Rental System makes it easy to manage rentals, track availability, calculate costs, and generate invoices.
 
-How It Works
-This system handles everything from rental requests to returns, ensuring a smooth experience for both customers and shop owners. It includes:
+## How It Works
+This system handles everything from rental requests to returns, ensuring a smooth experience for both customers and shop owners. 
 
-Rental Management – Customers select from hourly, daily, or weekly rental options. The system checks availability and approves or denies requests.
-Automated Invoicing – Once kayaks are returned, a detailed bill is generated, applying discounts for group rentals (3-5 kayaks).
-Emergency Shutdown – In case of unexpected closures, rentals are halted immediately.
-Key Features
-🛶 Flexible Rental Options
-Customers can rent kayaks hourly ($10), daily ($30), or weekly ($50), with automated calculations for total rental cost and duration.
+It includes:
+  - Rental Management – Customers select from hourly, daily, or weekly rental options. The system checks availability and approves or denies requests.
+  - Automated Invoicing – Once kayaks are returned, a detailed bill is generated, applying discounts for group rentals (3-5 kayaks).
+  - Emergency Shutdown – In case of unexpected closures, rentals are halted immediately.
+    
+## Key Features
+  🛶 Flexible Rental Options
+        Customers can rent kayaks hourly ($10), daily ($30), or weekly ($50), with automated calculations for total rental cost and duration.
 
-📉 Smart Inventory Tracking
-The system tracks available kayaks in real time.
-If a rental request exceeds availability, it notifies the customer and prevents overbooking.
-💰 Built-in Discounts
-Renting 3 to 5 kayaks? Enjoy an automatic 30% discount on your total bill.
+  📉 Smart Inventory Tracking
+        The system tracks available kayaks in real time.
+        If a rental request exceeds availability, it notifies the customer and prevents overbooking.
+        
+        💰 Built-in Discounts
+        Renting 3 to 5 kayaks? Enjoy an automatic 30% discount on your total bill.
 
 📝 Detailed Invoices
 Every transaction includes:
